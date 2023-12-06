@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImproveYourSchedule", "ImproveYourSchedule.csproj", "{9536A35B-C629-4FC1-BE92-912B6F5A457A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9536A35B-C629-4FC1-BE92-912B6F5A457A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9536A35B-C629-4FC1-BE92-912B6F5A457A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9536A35B-C629-4FC1-BE92-912B6F5A457A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9536A35B-C629-4FC1-BE92-912B6F5A457A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
