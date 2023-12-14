@@ -1,12 +1,13 @@
 ﻿using System;
+using Spectre.Console;
 
 namespace ImproveYourSchedule
 {
     internal class Program
     {
-        public static void Main(string[] args)
+        public static void Main()
         {
-            Console.WriteLine("Hello Ing. Mandik!");
+            AnsiConsole.Markup("[yellow]Hello[/] [yellow underline]Ing[/]. [red]Mandik![/]");
         }
     }
 }
